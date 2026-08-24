@@ -1,0 +1,32 @@
+<svg width="780" height="400" viewBox="0 0 780 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="778" height="398" rx="16" fill="white" stroke="#E5E7EB" stroke-width="2"/>
+  <text x="48" y="62" fill="#438FE3" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Most Used Languages</text>
+
+  <g clip-path="url(#barClip)">
+    <rect x="48" y="98" width="318" height="16" fill="#3578A8"/>
+    <rect x="366" y="98" width="227" height="16" fill="#F1D94C"/>
+    <rect x="593" y="98" width="39" height="16" fill="#42B883"/>
+    <rect x="632" y="98" width="28" height="16" fill="#3776AB"/>
+    <rect x="660" y="98" width="14" height="16" fill="#E34F26"/>
+    <rect x="674" y="98" width="12" height="16" fill="#7F52FF"/>
+    <rect x="686" y="98" width="7" height="16" fill="#3178C6"/>
+    <rect x="693" y="98" width="6" height="16" fill="#FF5A1F"/>
+    <rect x="699" y="98" width="79" height="16" fill="#D1D5DB"/>
+  </g>
+  <rect x="48" y="98" width="730" height="16" rx="8" stroke="white" stroke-width="2"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">
+    <circle cx="64" cy="165" r="8" fill="#3578A8"/><text x="87" y="173" fill="#8E8E8E">PHP 48.81%</text>
+    <circle cx="364" cy="165" r="8" fill="#F1D94C"/><text x="387" y="173" fill="#8E8E8E">JavaScript 34.90%</text>
+    <circle cx="64" cy="217" r="8" fill="#42B883"/><text x="87" y="225" fill="#8E8E8E">CSS 6.05%</text>
+    <circle cx="364" cy="217" r="8" fill="#3776AB"/><text x="387" y="225" fill="#8E8E8E">Python 3.73%</text>
+    <circle cx="64" cy="269" r="8" fill="#E34F26"/><text x="87" y="277" fill="#8E8E8E">HTML 2.13%</text>
+    <circle cx="364" cy="269" r="8" fill="#7F52FF"/><text x="387" y="277" fill="#8E8E8E">Kotlin 1.76%</text>
+    <circle cx="64" cy="321" r="8" fill="#3178C6"/><text x="87" y="329" fill="#8E8E8E">TypeScript 0.77%</text>
+    <circle cx="364" cy="321" r="8" fill="#FF5A1F"/><text x="387" y="329" fill="#8E8E8E">Astro 0.71%</text>
+    <circle cx="64" cy="373" r="8" fill="#9CA3AF"/><text x="87" y="381" fill="#8E8E8E">Other 1.14%</text>
+  </g>
+  <defs>
+    <clipPath id="barClip"><rect x="48" y="98" width="730" height="16" rx="8"/></clipPath>
+  </defs>
+</svg>
