@@ -12,11 +12,8 @@ I'm a computer science student and independent developer interested in building 
 - **[Luma](https://github.com/koajsj/luma)** — A privacy-focused messaging application.
 - **[CourseSchedule iOS](https://github.com/koajsj/course-schedule-ios)** — A native iOS course scheduling app.
 - **[CodexUsager](https://github.com/koajsj/codexusager)** — A macOS dashboard for AI coding usage analytics.
-- **[fzf404](https://github.com/koajsj/fzf404)** — My personal website project.
 
 ### Tech Stack
 Swift · SwiftUI · TypeScript · React · Vue · Go · Rust
 
 I value practical solutions, clean architecture, security, and continuous learning.
-
-Always building, learning, and improving.
