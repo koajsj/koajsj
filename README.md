@@ -1,17 +1,19 @@
 # Hi, I'm koajsj 👋
 
-### From SwiftUI to secure systems, I turn practical ideas into software people can rely on. ⚡
+### From SwiftUI apps to secure systems, I build software that solves practical problems. ⚡
 
-I'm a developer who enjoys building across the stack—from native Apple interfaces to backend services and developer tools. My work often explores privacy, security, and AI-assisted development, with a focus on making complex things clear, useful, and dependable. 🛠️🔐
+I work across the stack, creating native Apple apps, privacy-focused products, and tools for AI-assisted development. I care about clear interfaces, secure defaults, and the details that make software reliable in everyday use. 🛠️🔐
 
-### What I'm building
+### 🚀 Selected projects
 
-- **[Luma](https://github.com/koajsj/luma)** — privacy-focused messaging.
-- **[CourseSchedule iOS](https://github.com/koajsj/course-schedule-ios)** — a native course scheduling app.
-- **[CodexUsager](https://github.com/koajsj/codexusager)** — a macOS dashboard for AI coding usage.
+- **[Luma](https://github.com/koajsj/luma)** — Privacy-focused messaging.
+- **[CourseSchedule iOS](https://github.com/koajsj/course-schedule-ios)** — A native app for organizing classes and schedules.
+- **[CodexUsager](https://github.com/koajsj/codexusager)** — A macOS dashboard for AI coding usage.
 
-### Areas I enjoy
+### 🧭 What I value
 
-🍎 iOS & macOS · 🔒 Privacy & security · 🤖 AI developer tools · 🧰 Full-stack engineering
+Useful products · privacy by design · reliable engineering · thoughtful UX
 
-**Tools I work with:** Swift · SwiftUI · TypeScript · React · Vue · Go · Rust
+### 🛠️ Tools
+
+Swift · SwiftUI · TypeScript · React · Vue · Go · Rust
